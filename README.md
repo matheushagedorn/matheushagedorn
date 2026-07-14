@@ -22,6 +22,7 @@ $ curl -s https://api.matheushagedorn.dev/status | jq
     "name": "Matheus Hagedorn",
     "role": "Site Reliability Engineer",
     "alsoActingAs": "Fullstack Developer",
+    "education": "Bacharelado em Engenharia de Software",
     "focus": ["confiabilidade", "observabilidade", "entrega fullstack"],
     "uptime": "always learning"
   }
@@ -69,7 +70,8 @@ $ curl -s https://api.matheushagedorn.dev/status | jq
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-hagedorn/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-hagedorn/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/matheus_hagedorn/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matheus.hagedorn@gmail.com)
 
 </div>
