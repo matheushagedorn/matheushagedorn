@@ -57,15 +57,6 @@ $ curl -s https://api.matheushagedorn.dev/status | jq
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=matheushagedorn&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheushagedorn&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 ## 📬 Contato
 
 <div align="center">
