@@ -64,14 +64,6 @@ $ curl -s https://api.matheushagedorn.dev/status | jq
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheushagedorn&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=matheushagedorn&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=matheushagedorn&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
-</p>
-
 ---
 
 ## 📬 Contato
